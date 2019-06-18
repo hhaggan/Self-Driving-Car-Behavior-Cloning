@@ -22,6 +22,7 @@ The steps of this project are the following:
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
+[image8]: ./examples/NVidia.png "NVidia"
 
 ## Rubric Points
 
@@ -116,6 +117,5 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 
 #### 2. Final Model Architecture
 
-
-
+[image8]
 
